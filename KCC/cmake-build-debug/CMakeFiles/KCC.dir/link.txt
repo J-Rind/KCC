@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/KCC.dir/main.c.o  -o KCC 
